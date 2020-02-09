@@ -2,11 +2,11 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer: Kirthika
 //
 // Create Date:   12:44:56 11/25/2019
 // Design Name:   RTC
-// Module Name:   Kirthika
+// Module Name:  test
 // Project Name:  Project_MP
 // Target Device:  
 // Tool versions:  
