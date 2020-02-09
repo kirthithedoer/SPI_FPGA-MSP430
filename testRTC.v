@@ -6,7 +6,7 @@
 //
 // Create Date:   12:44:56 11/25/2019
 // Design Name:   RTC
-// Module Name:   /home/eng/k/kxv190001/Desktop/Project_MP/testRTC.v
+// Module Name:   Kirthika
 // Project Name:  Project_MP
 // Target Device:  
 // Tool versions:  
