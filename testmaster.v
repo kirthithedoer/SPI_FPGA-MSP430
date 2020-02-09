@@ -2,11 +2,11 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer: Kirthika
 //
 // Create Date:   21:50:55 12/07/2019
 // Design Name:   SPI_Master
-// Module Name:   /home/eng/k/kxv190001/Desktop/Project_MP/testmaster.v
+// Module Name:   testmaster.v
 // Project Name:  Project_MP
 // Target Device:  
 // Tool versions:  
